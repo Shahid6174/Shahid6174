@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shahid6174 (Md Shahid)
 - 👀 I’m interested in solving programming and computational problems.
-- 🌱 I’m currently learning DSA, Java, C, and other important computer-related topics.
+- 🌱 I’m currently learning DSA, Java, C, foundations for D.Sc., and other important computer-related topics.
 - 💞️ I’m looking to collaborate on solving problems.
 - 📫 How to reach me - Gmail: mdshahid.mds25@gmail.com   Linkedin: www.linkedin.com/in/mohammed-shahid-68881621b
 - 😄 Pronouns: He/him
