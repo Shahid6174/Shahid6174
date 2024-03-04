@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shahid6174 (Md Shahid)
+**I’m @Shahid6174 (Md Shahid)**
 - 👀 I’m interested in solving programming and computational problems.
 - 🌱 I’m currently learning DSA, Java, C, foundations for D.Sc., and other important computer-related topics.
 - 💞️ I’m looking to collaborate on solving problems.
