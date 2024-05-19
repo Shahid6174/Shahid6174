@@ -1,7 +1,6 @@
 # I’m @Shahid6174 (Md Shahid)
 - 👀 I’m interested in solving programming and computational problems.
-- 🌱 I’m currently learning DSA, Java, C, foundations for D.Sc., and other important computer-related topics.
-- 💞️ I’m looking to collaborate on solving problems.
+- 🌱 I’m currently learning DSA, Java, C, Data Science, and other important computer-related topics.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: 6174 is a constant that arises when we take a 4-digit integer, form the largest and smallest numbers from its digits, and then subtract these two numbers. Continuing with this process of forming and subtracting, we will always arrive at the number 6174.
 
