@@ -1,4 +1,4 @@
-# I’m @Shahid6174 (Md Shahid)
+# Hey, I'm @Shahid6174 (Md Shahid)
 - 👀 I’m interested in solving programming and computational problems.
 - 🌱 I’m currently learning DSA, Java, C, Data Science, and other important computer-related topics.
 - 😄 Pronouns: He/him
