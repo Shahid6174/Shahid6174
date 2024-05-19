@@ -10,10 +10,6 @@
 <a target="_black" href="https://linkedin.com/in/mohammed-shahid-68881621b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedshahid" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/Shahid6174/github-stats">
-<img src="https://github.com/Shahid6174/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
-
 <!---
 Shahid6174/Shahid6174 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
