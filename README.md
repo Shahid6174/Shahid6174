@@ -5,9 +5,7 @@
 - ⚡ Fun fact: 6174 is a constant that arises when we take a 4-digit integer, form the largest and smallest numbers from its digits, and then subtract these two numbers. Continuing with this process of forming and subtracting, we will always arrive at the number 6174.
 
 <h3 align="left">Socials:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/mohammed-shahid-68881621b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedshahid" height="30" width="40" /></a>
-</p>
 
 
 <!---
