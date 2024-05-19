@@ -23,7 +23,3 @@ You can click the Preview link to take a look at your changes.
 <!--<img align="right" width="300" src="https://user-images.githubusercontent.com/94922914/233508815-a208793f-7564-4ee8-9a01-1c487e22ccef.gif">-->
 <img  src="https://streak-stats.demolab.com?user=Shahid6174&theme=aura&hide_border=true&card_width=550"/>
 <img  src="https://github-readme-stats.vercel.app/api?username=Shahid6174&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
-
-# 🏆 GitHub Trophies
-<!--<img src="https://github-profile-trophy.vercel.app/?username=NebulaTris&theme=onestar&no-frame=false&no-bg=true&margin-w=4" />-->
-<img src="https://github-trophies.vercel.app/?username=Shahid6174&theme=onestar&no-frame=true" width="800"/>
