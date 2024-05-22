@@ -6,7 +6,7 @@
 
 <p>
   <h3 align="left">Socials:</h3>
-<a target="_black" href="https://linkedin.com/in/mohammed-shahid-68881621b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedshahid" height="30" width="40" /></a>
+<a target="_blank" href="https://linkedin.com/in/mohammed-shahid-68881621b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedshahid" height="30" width="40" /></a>
 </p>
 
 <!---
