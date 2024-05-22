@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 
 # 📊 GitHub Stats:
 <!--<img align="right" width="300" src="https://user-images.githubusercontent.com/94922914/233508815-a208793f-7564-4ee8-9a01-1c487e22ccef.gif">-->
-<img  src="https://github-readme-stats.vercel.app/api?username=Shahid6174&theme=radical&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
+<img  src="https://github-readme-stats.vercel.app/api?username=Shahid6174&theme=dark&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
